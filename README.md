@@ -2,7 +2,7 @@
 
 基于AutoJS软件，[参考自动化脚本项目的模板框架](https://github.com/TonyJiangWJ/AutoScriptBase)，较大程度上减轻了开发难度！
 
-同时将本项目作为学习Auto JS的总结仓库。
+本项目主要用于mix2s手机的日常使用的自动化，手机已经获取了root权限。
 
 学会：
 
